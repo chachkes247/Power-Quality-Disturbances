@@ -1,3 +1,6 @@
 [submodule "PQDs_SignalsGenerator_DatabaseCreator"]
 	path = PQDs_SignalsGenerator_DatabaseCreator
 	url = https://github.com/chachkes247/PQDs_SignalsGenerator_DatabaseCreator.git
+[submodule "PQDs-CNN-Classifier"]
+	path = PQDs-CNN-Classifier
+	url = https://github.com/chachkes247/PQDs-CNN-Classifier.git
