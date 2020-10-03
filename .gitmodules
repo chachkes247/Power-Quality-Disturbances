@@ -1,0 +1,3 @@
+[submodule "PQDs_SignalsGenerator_DatabaseCreator"]
+	path = PQDs_SignalsGenerator_DatabaseCreator
+	url = https://github.com/chachkes247/PQDs_SignalsGenerator_DatabaseCreator.git
