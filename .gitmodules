@@ -4,3 +4,6 @@
 [submodule "PQDs-CNN-Classifier"]
 	path = PQDs-CNN-Classifier
 	url = https://github.com/chachkes247/PQDs-CNN-Classifier.git
+[submodule "PQDs-LSTM-Classifier"]
+	path = PQDs-LSTM-Classifier
+	url = https://github.com/rmhalb/PQDs-LSTM-Classifier.git
