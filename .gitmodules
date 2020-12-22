@@ -7,3 +7,6 @@
 [submodule "PQDs-LSTM-Classifier"]
 	path = PQDs-LSTM-Classifier
 	url = https://github.com/rmhalb/PQDs-LSTM-Classifier.git
+[submodule "PQDs-CNN-MATLAB-Classifier"]
+	path = PQDs-CNN-MATLAB-Classifier
+	url = https://github.com/rmhalb/PQDs-CNN-MATLAB-Classifier.git
