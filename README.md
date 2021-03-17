@@ -1,5 +1,7 @@
 # Power Quality Disturbances Open Source Dataset Generator with Deep-Learning Reference Classifiers
 
+Article : https://www.sciencedirect.com/science/article/pii/S0378779621001334?dgcid=author 
+
 This repository is a main repository that contains sub modules of the following repositories:
 
 ### Synthetic Database Creation Tool 
